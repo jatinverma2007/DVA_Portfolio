@@ -16,6 +16,14 @@ const projects = [
     tags: ["Tableau", "Data Visualization"],
     github: "https://github.com/jatinverma2007/Uber_Dashboard",
     live: "https://public.tableau.com/app/profile/jatin.verma7956/viz/shared/GPSR8JMRK"
+  },
+  {
+    name: "Human Resources Analysis Dashboard",
+    description: "Comprehensive HR analytics dashboard tracking workforce composition, attrition trends, hiring flow, and department-level performance to support smarter people decisions.",
+    image: `${base}Human Resources Analysis.png`,
+    tags: ["Tableau", "HR Analytics", "Dashboard Design", "Data Storytelling"],
+    github: "https://github.com/jatinverma2007/Human_Resources_Analysis_Dashboard",
+    live: "https://public.tableau.com/views/HumanResourcesAnalysis_17774058794750/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
   }
 ]
 
