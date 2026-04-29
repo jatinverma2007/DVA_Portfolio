@@ -32,7 +32,16 @@ const projects = [
     tags: ["Tableau", "HR Analytics", "Dashboard Design", "Data Storytelling"],
     github: "https://github.com/jatinverma2007/Human_Resources_Analysis_Dashboard",
     live: "https://public.tableau.com/views/HumanResourcesAnalysis_17774058794750/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
-  }
+  },
+  {
+    name: "Employee Attrition Analysis",
+    description: "In-depth analysis of employee attrition patterns with data processing, pivot tables, and insights into workforce retention factors.",
+    image: `${base}employee.png`,
+    tags: ["Data Analysis", "HR Analytics", "Python", "Spreadsheets"],
+    github: "https://github.com/jatinverma2007/SectionB_G12_Employee_Attrition",
+    live: "https://docs.google.com/spreadsheets/d/11k6a7roDlZMBnM63qBJszrIvSV6clFQgL7Gq24U1zqo/edit?usp=sharing"
+  },
+
 ]
 
 export default projects
