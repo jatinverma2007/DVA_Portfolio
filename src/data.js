@@ -2,6 +2,14 @@ const base = import.meta.env.BASE_URL
 
 const projects = [
   {
+    name: "Zepto Dashboard",
+    description: "Operations dashboard for Zepto built in Tableau, highlighting order flow, fulfillment efficiency, and service performance insights.",
+    image: `${base}zepto.png`,
+    tags: ["Tableau", "Data Visualization", "Operations"],
+    github: "https://github.com/jatinverma2007/Zepto_Dashboard",
+    live: "https://public.tableau.com/views/ZeptoOperationDashboard_17774656610870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+  },
+  {
     name: "Swiggy Dashboard",
     description: "Interactive Swiggy order & delivery dashboard built with Tableau — includes KPIs, order trends, and geographic insights.",
     image: `${base}swiggy.png`,
