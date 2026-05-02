@@ -6,6 +6,7 @@ Welcome to my portfolio. This is a modern, responsive web app built with React +
 **Jatin Verma**  
 *Dashboard Developer & Data Analyst | Newton School of Technology, Rishihood University*
 
+
 I focus on turning raw datasets into practical insights through interactive dashboards and clean visual storytelling.
 
 ## Key Features
